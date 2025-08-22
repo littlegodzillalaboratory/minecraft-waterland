@@ -1,3 +1,5 @@
+version ?= 0.9.0-pre.0
+
 ci: deps style lint gen-villages-maps resource-packs-package
 
 clean:
@@ -45,6 +47,9 @@ resource-packs-package: stage
 	cp -R stage/skins-mapped/* stage/resource-packs/Waterland/assets/minecraft/textures/entity/player/wide/
 	cp -R config/pack.mcmeta stage/resource-packs/Waterland/
 	cp -R images/pack.png stage/resource-packs/Waterland/
+	cd stage/resource-packs/ && \
+	  zip -r ../resource-pack-waterland-$(version).zip Waterland/* && \
+	  cd ../../
 
 resource-packs-install-mac:
 	cp -R stage/resource-packs/Waterland "/Users/$(USER)/Library/Application Support/minecraft/resourcepacks/"
