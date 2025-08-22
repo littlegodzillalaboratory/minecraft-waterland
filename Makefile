@@ -34,11 +34,11 @@ resource-packs-package: stage
 	cp images/skins/king-kakashi-gladiators.png stage/skins-mapped/kai.png
 	cp images/skins/old-knight-soren.png stage/skins-mapped/noor.png
 	cp images/skins/the-loyal.png stage/skins-mapped/alex.png
+	cp images/skins/job-the-troubadour.png stage/skins-mapped/zuri.png
 	cp images/skins/husar-peasant.png stage/skins-mapped/ari.png
 	cp images/skins/husar-peasant.png stage/skins-mapped/efe.png
 	cp images/skins/husar-peasant.png stage/skins-mapped/makena.png
 	cp images/skins/husar-peasant.png stage/skins-mapped/steve.png
-	cp images/skins/husar-peasant.png stage/skins-mapped/zuri.png
 	mkdir -p stage/resource-packs/Waterland/assets/minecraft/textures/entity/player/
 	cd stage/resource-packs/Waterland/assets/minecraft/textures/entity/player/ && mkdir -p slim/ wide/
 	cp -R stage/skins-mapped/* stage/resource-packs/Waterland/assets/minecraft/textures/entity/player/slim/
