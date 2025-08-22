@@ -14,3 +14,11 @@ Minecraft Waterland is a Minecraft adventure project with my son, we run our own
 * [Server](docs/server.md)
 * [Rules](docs/rules.md)
 * [Skins](docs/skins.md)
+
+Colophon
+--------
+
+Related projects:
+
+* [Minecraft NPC](https://github.com/cliffano/minecraft-npc)
+* [Ansible Role Minecraft Java](https://github.com/cliffano/ansible-role-minecraft-java)
