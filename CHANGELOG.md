@@ -7,6 +7,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## Unreleased
 
+### Fixed
+- Fix resource pack package version to use current event SHA
+
 ## 0.10.3 - 2025-08-23
 ### Fixed
 - Fix resource pack package version being published
