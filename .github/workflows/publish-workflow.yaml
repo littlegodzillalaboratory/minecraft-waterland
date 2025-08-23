@@ -16,9 +16,6 @@ jobs:
           node-version: '24'
           registry-url: https://registry.npmjs.org
       - run: make deps resource-packs-package
-      - run: gh release create ${GITHUB_REF#refs/tags/} \
-          --title "${GITHUB_REF#refs/tags/}" \
-          --notes "Release ${GITHUB_REF#refs/tags/}" \
-          stage/resource-pack-waterland-*.zip
+      - run: gh release create ${GITHUB_REF#refs/tags/} stage/resource-pack-waterland-*.zip
         env:
           GH_TOKEN: ${{ secrets.STUDIO_GITHUB_TOKEN }}

@@ -7,6 +7,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## Unreleased
 
+### Fixed
+- Fix publish command structure
+
 ## 0.10.1 - 2025-08-23
 ### Fixed
 - Fix missing GH_TOKEN env on publish workflow
