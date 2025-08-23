@@ -1,4 +1,4 @@
-version ?= 0.10.3-pre.0
+version ?= 0.10.3
 
 ci: deps style lint gen-villages-maps resource-packs-package
 
