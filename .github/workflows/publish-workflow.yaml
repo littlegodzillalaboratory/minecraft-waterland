@@ -1,3 +1,4 @@
+---
 name: Publish
 'on':
   push:
@@ -19,3 +20,5 @@ jobs:
           --title "${GITHUB_REF#refs/tags/}" \
           --notes "Release ${GITHUB_REF#refs/tags/}" \
           stage/resource-pack-waterland-*.zip
+        env:
+          GH_TOKEN: ${{ secrets.STUDIO_GITHUB_TOKEN }}
