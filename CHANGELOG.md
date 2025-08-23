@@ -7,6 +7,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## Unreleased
 
+### Changed
+- Update resource pack icon with hi-res 128x128 image
+
 ## 0.10.4 - 2025-08-23
 ### Fixed
 - Fix resource pack package version to use current event SHA
