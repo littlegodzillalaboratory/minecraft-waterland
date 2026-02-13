@@ -7,6 +7,8 @@
 Minecraft Waterland
 -------------------
 
+![Minecraft Waterland Logo](images/logo.png "Minecraft Waterland")
+
 Minecraft Waterland is Minecraft customisations for the Kingdom of Waterland.
 
 * [Server](docs/server.md)
@@ -20,5 +22,3 @@ Related projects:
 
 * [Minecraft NPC](https://github.com/cliffano/minecraft-npc)
 * [Ansible Role Minecraft Java](https://github.com/cliffano/ansible-role-minecraft-java)
-
-![Minecraft Waterland Logo](images/logo.png "Minecraft Waterland")
