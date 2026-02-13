@@ -16,4 +16,4 @@ jobs:
       - run: make deps resource-packs-package
       - run: gh release create ${GITHUB_REF#refs/tags/} stage/resource-pack-waterland-*.zip
         env:
-          GH_TOKEN: ${{ secrets.STUDIO_GITHUB_TOKEN }}
+          GH_TOKEN: ${{ secrets.LITTLEGODZILLALABORATORY_GITHUB_TOKEN }}
