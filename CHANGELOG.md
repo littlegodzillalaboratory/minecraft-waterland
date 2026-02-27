@@ -7,6 +7,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## Unreleased
 
+### Fixed
+- Fix update versions list workflow token
+
 ## 0.11.0 - 2025-08-23
 ### Changed
 - Update resource pack icon with hi-res 128x128 image
