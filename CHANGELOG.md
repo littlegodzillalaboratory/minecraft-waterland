@@ -7,6 +7,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## Unreleased
 
+### Removed
+- Remove Minecraft versions list publishing, shifted to Automat
+
 ### Fixed
 - Fix update versions list workflow token
 
