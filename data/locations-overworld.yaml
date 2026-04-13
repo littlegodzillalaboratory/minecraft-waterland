@@ -5,6 +5,11 @@ villages:
       x: -50
       y: -22
       z: 1115
+  - name: "Alcatraz"
+    coords:
+      x: 101
+      y: 71
+      z: 724
   - name: "Basecamp 1"
     coords:
       x: 3824
@@ -15,6 +20,11 @@ villages:
       x: 2358
       y: 62
       z: 1014
+  - name: "Castle Gray"
+    coords:
+      x: -447
+      y: 64
+      z: 660
   - name: "Castle Neverwinter"
     coords:
       x: -80
@@ -135,6 +145,11 @@ villages:
       x: 3031
       y: 64
       z: 591
+  - name: "School of Rock"
+    coords:
+      x: -245
+      y: 50
+      z: 812
   - name: "Skycamp"
     coords:
       x: -1388
@@ -180,6 +195,11 @@ villages:
       x: 1925
       y: 65
       z: 105
+  - name: "Tower of Terror"
+    coords:
+      x: -110
+      y: 67
+      z: 725
   - name: "Trail Outpost"
     coords:
       x: -1352
@@ -195,3 +215,8 @@ villages:
       x: 80
       y: 67
       z: 391
+  - name: "Wild Chicken Inn"
+    coords:
+      x: -426
+      y: 67
+      z: 817
