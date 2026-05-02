@@ -115,6 +115,11 @@ villages:
       x: 380
       y: 72
       z: -1775
+  - name: "Lush Hidden Outpost"
+    coords:
+      x: 240
+      y: -16
+      z: 1387
   - name: "Mountain Camp 2"
     coords:
       x: -71
