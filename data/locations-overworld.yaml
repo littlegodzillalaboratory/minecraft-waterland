@@ -215,6 +215,11 @@ villages:
       x: -54
       y: 15
       z: 962
+  - name: "Waterland Camp"
+    coords:
+      x: 609
+      y: 79
+      z: 542
   - name: "Waterland Village"
     coords:
       x: 80
