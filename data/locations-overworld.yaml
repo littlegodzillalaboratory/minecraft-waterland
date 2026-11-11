@@ -20,6 +20,11 @@ villages:
       x: 2358
       y: 62
       z: 1014
+  - name: "Cantine Del Fuego"
+    coords:
+      x: 2758
+      y: 71
+      z: 885
   - name: "Castle Gray"
     coords:
       x: -447
