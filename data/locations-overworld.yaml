@@ -210,6 +210,11 @@ villages:
       x: -1352
       y: 67
       z: -429
+  - name: "Trap of the Drowned"
+    coords:
+      x: 1628
+      y: 63
+      z: 13
   - name: "Underground Camp"
     coords:
       x: -54
