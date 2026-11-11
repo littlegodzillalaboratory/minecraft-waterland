@@ -40,6 +40,11 @@ villages:
       x: 190
       y: -21
       z: -1229
+  - name: "Desserty Villagy"
+    coords:
+      x: 1628
+      y: 68
+      z: 1196
   - name: "Easthaven Camp"
     coords:
       x: -15
