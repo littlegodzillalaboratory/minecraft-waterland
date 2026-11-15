@@ -65,6 +65,11 @@ villages:
       x: 1447
       y: 104
       z: -789
+  - name: "Flying Moon"
+    coords:
+      x: 550
+      y: 110
+      z: 187
   - name: "Forest Village 1"
     coords:
       x: -1075
@@ -95,16 +100,6 @@ villages:
       x: -773
       y: 63
       z: -434
-  - name: "Land Village 3"
-    coords:
-      x: 692
-      y: 66
-      z: -2090
-  - name: "Mountain Village"
-    coords:
-      x: 340
-      y: 113
-      z: -1386
   - name: "Ice Village 4"
     coords:
       x: -674
@@ -115,6 +110,11 @@ villages:
       x: 324
       y: 75
       z: 661
+  - name: "Land Village 3"
+    coords:
+      x: 692
+      y: 66
+      z: -2090
   - name: "Lava"
     coords:
       x: 2640
@@ -135,6 +135,11 @@ villages:
       x: -71
       y: 121
       z: -1529
+  - name: "Mountain Village"
+    coords:
+      x: 340
+      y: 113
+      z: -1386
   - name: "Normal Land Village"
     coords:
       x: 27
