@@ -205,6 +205,11 @@ villages:
       x: 824
       y: 80
       z: -509
+  - name: "The Angkor"
+    coords:
+      x: 351
+      y: 64
+      z: 119
   - name: "The First Lucky Igloo"
     coords:
       x: -387
